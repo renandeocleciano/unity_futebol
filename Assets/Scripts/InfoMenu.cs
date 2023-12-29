@@ -44,7 +44,7 @@ public class InfoMenu : MonoBehaviour {
 
 	public void Facebook()
 	{
-		Application.OpenURL ("www.facebook.com/wtncursos/");
+		Application.OpenURL ("https://github.com/renandeocleciano");
 	}
 
 }
